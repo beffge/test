@@ -1,0 +1,18 @@
+{
+    "name": "testLandscape",
+    "model": {
+        "softwareSystems": [
+            {
+                "id": "1",
+                "name": "Digital Business System",
+                "containers": [
+                    {
+                        "id": "2",
+                        "name": "test-team-test-entity",
+                        "tags": "uuid-testEntity"
+                    }
+                ]
+            }
+        ]
+    }
+}
